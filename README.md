@@ -13,10 +13,10 @@ P01-Lake 🏖 - This file is about my first project using HTML language. I creat
 <h2> 🎨 Layout </h2>
 
 <h3> 👩🏽‍💻 Desktop </h3>
-<img src = "./img/tela-p01.png" width = 400px height = 200px>
+<img src = "https://github.com/taiscostaeng/front-p01-lake/assets/138815703/60ade286-b067-4e78-8a4f-d87da222e96c" width = 400px>
 
 <h3> 📱 Mobile </h3>
-<img src = "./img/tela-p01.png" width = 200px height = 400px>
+<img src = "https://github.com/taiscostaeng/front-p01-lake/assets/138815703/60ade286-b067-4e78-8a4f-d87da222e96c" width = 200px>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <h2> ✨😊 Do you want to contribue on this project? </h2>
